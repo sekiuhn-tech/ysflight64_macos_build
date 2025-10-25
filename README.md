@@ -8,5 +8,3 @@ built from the latest source using CMake fixes.
 ✅ Compiler: AppleClang 17.0
 
 ✅ Python: Homebrew /opt/homebrew/bin/python3
-
-✅ Note: This build works, but is heavier than official release.
